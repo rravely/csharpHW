@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\bin\Debug\20230315_homeWork_UpDown.exe.config
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\bin\Debug\20230315_homeWork_UpDown.exe
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\bin\Debug\20230315_homeWork_UpDown.pdb
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\obj\Debug\20230315_homeWork_UpDown.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\obj\Debug\20230315_homeWork_UpDown.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\obj\Debug\20230315_homeWork_UpDown.exe
+C:\Users\KGA\source\repos\20230315_homeWork_UpDown\20230315_homeWork_UpDown\obj\Debug\20230315_homeWork_UpDown.pdb
