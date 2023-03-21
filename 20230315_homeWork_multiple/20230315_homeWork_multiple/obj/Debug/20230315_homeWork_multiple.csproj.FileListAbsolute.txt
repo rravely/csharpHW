@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\bin\Debug\20230315_homeWork_multiple.exe.config
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\bin\Debug\20230315_homeWork_multiple.exe
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\bin\Debug\20230315_homeWork_multiple.pdb
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\obj\Debug\20230315_homeWork_multiple.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\obj\Debug\20230315_homeWork_multiple.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\obj\Debug\20230315_homeWork_multiple.exe
+C:\Users\KGA\source\repos\20230315_homeWork_multiple\20230315_homeWork_multiple\obj\Debug\20230315_homeWork_multiple.pdb
