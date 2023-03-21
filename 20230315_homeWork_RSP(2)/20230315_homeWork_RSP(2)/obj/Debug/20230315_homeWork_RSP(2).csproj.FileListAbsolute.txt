@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\bin\Debug\20230315_homeWork_RSP(2).exe.config
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\bin\Debug\20230315_homeWork_RSP(2).exe
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\bin\Debug\20230315_homeWork_RSP(2).pdb
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\obj\Debug\20230315_homeWork_RSP(2).csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\obj\Debug\20230315_homeWork_RSP(2).csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\obj\Debug\20230315_homeWork_RSP(2).exe
+C:\Users\KGA\source\repos\20230315_homeWork_RSP(2)\20230315_homeWork_RSP(2)\obj\Debug\20230315_homeWork_RSP(2).pdb
