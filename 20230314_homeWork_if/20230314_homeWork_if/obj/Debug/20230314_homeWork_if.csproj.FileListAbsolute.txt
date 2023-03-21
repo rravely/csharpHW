@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\bin\Debug\20230314_homeWork_if.exe.config
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\bin\Debug\20230314_homeWork_if.exe
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\bin\Debug\20230314_homeWork_if.pdb
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\obj\Debug\20230314_homeWork_if.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\obj\Debug\20230314_homeWork_if.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\obj\Debug\20230314_homeWork_if.exe
+C:\Users\KGA\Desktop\rahyun\20230314_homeWork_if\20230314_homeWork_if\obj\Debug\20230314_homeWork_if.pdb
