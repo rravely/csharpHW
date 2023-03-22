@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\bin\Debug\20230317_homeWork_warNamBbong.exe.config
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\bin\Debug\20230317_homeWork_warNamBbong.exe
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\bin\Debug\20230317_homeWork_warNamBbong.pdb
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\obj\Debug\20230317_homeWork_warNamBbong.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\obj\Debug\20230317_homeWork_warNamBbong.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\obj\Debug\20230317_homeWork_warNamBbong.exe
+C:\Users\KGA\source\repos\20230317_homeWork_warNamBbong\20230317_homeWork_warNamBbong\obj\Debug\20230317_homeWork_warNamBbong.pdb
