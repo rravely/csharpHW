@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\bin\Debug\20230316_homeWork_star.exe.config
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\bin\Debug\20230316_homeWork_star.exe
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\bin\Debug\20230316_homeWork_star.pdb
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\obj\Debug\20230316_homeWork_star.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\obj\Debug\20230316_homeWork_star.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\obj\Debug\20230316_homeWork_star.exe
+C:\Users\KGA\source\repos\20230316_homeWork_star\20230316_homeWork_star\obj\Debug\20230316_homeWork_star.pdb
