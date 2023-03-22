@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\bin\Debug\20230316_homeWork_diamond.exe.config
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\bin\Debug\20230316_homeWork_diamond.exe
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\bin\Debug\20230316_homeWork_diamond.pdb
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\obj\Debug\20230316_homeWork_diamond.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\obj\Debug\20230316_homeWork_diamond.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\obj\Debug\20230316_homeWork_diamond.exe
+C:\Users\KGA\source\repos\20230316_homeWork_diamond\20230316_homeWork_diamond\obj\Debug\20230316_homeWork_diamond.pdb
