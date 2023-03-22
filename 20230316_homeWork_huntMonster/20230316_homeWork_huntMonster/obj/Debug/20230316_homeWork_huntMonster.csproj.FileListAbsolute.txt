@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\bin\Debug\20230316_homeWork_huntMonster.exe.config
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\bin\Debug\20230316_homeWork_huntMonster.exe
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\bin\Debug\20230316_homeWork_huntMonster.pdb
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\obj\Debug\20230316_homeWork_huntMonster.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\obj\Debug\20230316_homeWork_huntMonster.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\obj\Debug\20230316_homeWork_huntMonster.exe
+C:\Users\KGA\source\repos\20230316_homeWork_huntMonster\20230316_homeWork_huntMonster\obj\Debug\20230316_homeWork_huntMonster.pdb
