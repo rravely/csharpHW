@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\bin\Debug\20230320_homeWork_bingo.exe.config
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\bin\Debug\20230320_homeWork_bingo.exe
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\bin\Debug\20230320_homeWork_bingo.pdb
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\obj\Debug\20230320_homeWork_bingo.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\obj\Debug\20230320_homeWork_bingo.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\obj\Debug\20230320_homeWork_bingo.exe
+C:\Users\KGA\source\repos\20230320_homeWork_bingo\20230320_homeWork_bingo\obj\Debug\20230320_homeWork_bingo.pdb
