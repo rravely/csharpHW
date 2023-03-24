@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\obj\Debug\20230323_homeWork_textRPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\obj\Debug\20230323_homeWork_textRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\bin\Debug\20230323_homeWork_textRPG.exe.config
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\bin\Debug\20230323_homeWork_textRPG.exe
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\bin\Debug\20230323_homeWork_textRPG.pdb
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\obj\Debug\20230323_homeWork_textRPG.exe
+C:\Users\User\source\repos\20230323_homeWork_textRPG\20230323_homeWork_textRPG\obj\Debug\20230323_homeWork_textRPG.pdb
