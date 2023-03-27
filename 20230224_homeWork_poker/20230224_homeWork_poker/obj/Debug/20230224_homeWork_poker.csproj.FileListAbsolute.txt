@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\bin\Debug\20230224_homeWork_poker.exe.config
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\bin\Debug\20230224_homeWork_poker.exe
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\bin\Debug\20230224_homeWork_poker.pdb
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\obj\Debug\20230224_homeWork_poker.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\obj\Debug\20230224_homeWork_poker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\obj\Debug\20230224_homeWork_poker.exe
+C:\Users\User\source\repos\20230224_homeWork_poker\20230224_homeWork_poker\obj\Debug\20230224_homeWork_poker.pdb
