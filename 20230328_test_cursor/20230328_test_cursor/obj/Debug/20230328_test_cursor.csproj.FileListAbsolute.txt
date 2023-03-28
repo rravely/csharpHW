@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\bin\Debug\20230328_test_cursor.exe.config
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\bin\Debug\20230328_test_cursor.exe
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\bin\Debug\20230328_test_cursor.pdb
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\obj\Debug\20230328_test_cursor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\obj\Debug\20230328_test_cursor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\obj\Debug\20230328_test_cursor.exe
+C:\Users\User\source\repos\20230328_test_cursor\20230328_test_cursor\obj\Debug\20230328_test_cursor.pdb
