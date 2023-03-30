@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\bin\Debug\[Project]3MiniGame.exe.config
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\bin\Debug\[Project]3MiniGame.exe
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\bin\Debug\[Project]3MiniGame.pdb
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\obj\Debug\[Project]3MiniGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\obj\Debug\[Project]3MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\obj\Debug\[Project]3MiniGame.exe
+C:\Users\User\source\repos\[Project]3MiniGame\[Project]3MiniGame\obj\Debug\[Project]3MiniGame.pdb
