@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -37,26 +39,26 @@ namespace _Project_3MiniGame
                 playerTotalScore += shooting.playerScore;
                 Console.Clear();
 
-                //Print current score
+                //Print current score and next game
                 InputEnterToNextGame(playerTotalScore);
-
-
+                
+                
                 //Stack block game start
                 StackBlock.StackBlock stackBlock = new StackBlock.StackBlock();
                 stackBlock.Play();
                 playerTotalScore += stackBlock.playerScore;
                 Console.Clear();
 
-                //Print Next game
+                //Print current score and next game
                 InputEnterToNextGame(playerTotalScore);
 
-                
+
                 //Run Dino game start
                 RunDino.RunDino runDino = new RunDino.RunDino();
                 runDino.Play();
                 playerTotalScore += runDino.playerScore;
                 Console.Clear();
-
+                
 
                 //Display total score of player and Best score ever
                 PrintPlayerScore(playerTotalScore);
@@ -217,7 +219,8 @@ namespace _Project_3MiniGame
         //Save text file
         static void SavePlayerScoreInText(string playerName, int playerScore)
         {
-            string savePath = @"C:\Users\User\source\repos\[Project]3MiniGame\playerScore.txt";
+            string path = Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(Environment.CurrentDirectory)));
+            string savePath = Path.Combine(path, "playerScore.txt");
             string saveText = string.Format($"{playerName} {playerScore}");
             System.IO.File.WriteAllText(savePath, saveText, Encoding.Default);
         }
@@ -225,7 +228,9 @@ namespace _Project_3MiniGame
         //Read text file
         static string[] ReadBestScore()
         {
-            string filePath = @"C:\Users\User\source\repos\[Project]3MiniGame\playerScore.txt";
+            string path = Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(Environment.CurrentDirectory)));
+            string filePath = Path.Combine(path, "playerScore.txt");
+            //string filePath = @"C:\Users\User\source\repos\[Project]3MiniGame\playerScore.txt";
             string textValue = System.IO.File.ReadAllText(filePath);
             string[] textValueArray = new string[2];
             textValueArray = textValue.Split(' ');
